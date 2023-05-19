@@ -9,8 +9,6 @@ public class P04ComputerFirm {
         int ratingSum = 0;
         double salesSum = 0;
 
-
-
         for (int i = 1; i <=computersCount ; i++) {
             int currentComputer = Integer.parseInt(scanner.nextLine());
 

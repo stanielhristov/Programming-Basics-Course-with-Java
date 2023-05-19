@@ -18,7 +18,6 @@ public class P03Combinations {
                         isValidCombination ++;
                     }
 
-
                 }
 
             }

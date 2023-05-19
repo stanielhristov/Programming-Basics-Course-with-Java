@@ -13,7 +13,6 @@ public class P05SpecialNumbers {
                         if (number % i == 0 && number % j == 0 && number % k == 0 && number % l == 0) {
                             System.out.printf("%d%d%d%d ", i , j , k ,l);
                         }
-
                     }
                 }
             }

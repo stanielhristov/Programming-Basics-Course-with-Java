@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class P02EqualSumsEvenOddPosition {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         int firstNumber  = Integer.parseInt(scanner.nextLine());
         int secondNumber = Integer.parseInt(scanner.nextLine());
 

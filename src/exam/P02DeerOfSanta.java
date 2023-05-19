@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class P02DeerOfSanta {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         int daysMissing = Integer.parseInt(scanner.nextLine());
         int foodPrepared = Integer.parseInt(scanner.nextLine());
         double foodFirstDeer = Double.parseDouble(scanner.nextLine());
