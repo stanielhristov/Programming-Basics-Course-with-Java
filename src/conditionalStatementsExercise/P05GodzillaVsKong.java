@@ -23,5 +23,3 @@ public class P05GodzillaVsKong {
         }
     }
 }
-//o	"Action!"
-//o	"Wingard starts filming with {останалите пари} leva left."

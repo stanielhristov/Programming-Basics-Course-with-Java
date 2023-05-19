@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class P05Coins {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         double change = Double.parseDouble(scanner.nextLine());
         double money = change * 100;
         int countCoins = 0;
@@ -43,8 +44,6 @@ public class P05Coins {
         }
 
         System.out.println(countCoins);
-
-
 
     }
 }

@@ -36,8 +36,6 @@ public class P03Histogram {
         System.out.printf("%.2f%%%n", p5 * 1.0 / n * 100);
 
 
-
-
     }
 }
 

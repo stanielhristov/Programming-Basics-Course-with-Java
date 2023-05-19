@@ -13,7 +13,7 @@ public class P02HalfSumElement {
         for (int i = 1; i <= n; i++) {
 
             int currentNumber = Integer.parseInt(scanner.nextLine());
-            sum = sum + currentNumber; // sum += currentNumber
+            sum = sum + currentNumber;
             if (currentNumber > max) {
                 max = currentNumber;
             }

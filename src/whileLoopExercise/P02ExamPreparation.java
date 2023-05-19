@@ -44,6 +44,5 @@ public class P02ExamPreparation {
             System.out.printf("Last problem: %s", lastProblem);
         }
 
-
     }
 }

@@ -28,7 +28,6 @@ public class P06VowelsSum {
                     sum += 5;
                     break;
 
-
             }
 
         }

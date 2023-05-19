@@ -9,6 +9,7 @@ public class P02BonusScore {
         int number = Integer.parseInt(scanner.nextLine());
 
         double bonus = 0;
+
         if (number <= 100) {
             bonus = 5;
         } else if (number > 1000) {

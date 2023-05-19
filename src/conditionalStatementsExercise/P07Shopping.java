@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class P07Shopping {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         double budget = Double.parseDouble(scanner.nextLine());
         int gpu = Integer.parseInt(scanner.nextLine());
         int cpu = Integer.parseInt(scanner.nextLine());
@@ -25,4 +26,3 @@ public class P07Shopping {
 
     }
 }
-//Петър иска да купи N видеокарти, M процесора и P на брой рам памет. Ако броя на видеокартите е по-голям от този на процесорите получава 15% отстъпка от крайната сметка. Важат следните цени:

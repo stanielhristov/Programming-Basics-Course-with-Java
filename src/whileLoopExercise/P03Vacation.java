@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class P03Vacation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         double vacationPrice = Double.parseDouble(scanner.nextLine());
         double budged = Double.parseDouble(scanner.nextLine());
         int spendCounter = 0;
@@ -41,8 +42,3 @@ public class P03Vacation {
 
     }
 }
-//•	Пари нужни за екскурзията - реално число в интервала [1.00…25000.00]
-//•	Налични пари - реално число в интервала [0.00...25000.00]
-//След това многократно се четат по два реда:
-//•	Вид действие - текст с възможности "spend" и "save"
-//•	Сумата, която ще спести/похарчи - реално число в интервала [0.01…25000.00]

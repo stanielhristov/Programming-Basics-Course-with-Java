@@ -8,7 +8,7 @@ public class P01ExcellentResult {
 
         int grade = Integer.parseInt(scanner.nextLine());
 
-        if (grade >=5) {
+        if (grade >= 5) {
             System.out.println("Excellent!");
         }
     }
