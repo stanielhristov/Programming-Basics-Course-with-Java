@@ -1,4 +1,4 @@
-package Beggining;
+package FirstStepsInCoding;
 
 public class P02Nums {
     public static void main(String[] args) {

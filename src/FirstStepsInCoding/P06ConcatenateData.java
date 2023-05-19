@@ -1,4 +1,4 @@
-package Beggining;
+package FirstStepsInCoding;
 
 import java.util.Scanner;
 
@@ -11,7 +11,6 @@ public class P06ConcatenateData {
         int age = Integer.parseInt(scanner.nextLine());
         String town = scanner.nextLine();
 
-        //System.out.println("You are " + firstName + " " + lastName + ", a " + age + "-years old person from " + town + ".");
 
         System.out.printf("You are %s %s , a %d -years old person from %s.", firstName , lastName , age , town );
     }

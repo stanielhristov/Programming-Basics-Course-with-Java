@@ -1,4 +1,4 @@
-package Beggining;
+package FirstStepsInCoding;
 
 import java.util.Scanner;
 
