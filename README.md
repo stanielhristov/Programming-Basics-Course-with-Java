@@ -1,0 +1,1 @@
+Тhese are the tasks I have solved in the Programming Basics with Java Course at SoftUni. In it, we learned about if-else statements, loops (for,white and nested).
